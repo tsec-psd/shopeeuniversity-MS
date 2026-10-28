@@ -10,6 +10,7 @@ core/icons.js
 core/paper.css
 core/tokens.css
 core/tool-menus.js
+core/tour.js
 core/ui.css
 core/xd-core.js
 docs/截圖/ms-01-header.png
